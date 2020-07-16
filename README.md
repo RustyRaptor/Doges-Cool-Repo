@@ -16,7 +16,6 @@ Add some cool features to my cool repos.
 Some things you could try
 - add some text to this README file
 - make a new file call it something cool
-- remove ***this*** text from the readme file.
 
 ## commit and push your changes
 - Do this with IntelliJ itself so you get familiar with it's tools. 
