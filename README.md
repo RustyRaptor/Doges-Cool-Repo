@@ -1,4 +1,4 @@
-# Doges-Cool-Repo
+# Doges-Cool-Repo-But-Its-My-Version
 Add some cool features to my cool repos. 
 
 ## Fork my repo
@@ -8,7 +8,7 @@ Add some cool features to my cool repos.
   - that way we don't get confused when we merge changes. 
 
 ## Clone your fork of the repo
-1. make sure you're on your version. 
+1. make sure you're on your verion. 
   - It should say your username in the URL
 2. git clone it using IntelliJ
 CHANGE CHANGES
@@ -29,4 +29,4 @@ Some things you could try
 Make sure your repo is the source and mine is the destination
 
 # Hooray you did it!
-
+- Gabe: I actually did
