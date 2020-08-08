@@ -11,7 +11,7 @@ Add some cool features to my cool repos.
 1. make sure you're on your version. 
   - It should say your username in the URL
 2. git clone it using IntelliJ
-
+CHANGE CHANGES
 ## Make some cool changes. 
 Some things you could try
 - What the fuck did you just fucking say about me, you little bitch? 
